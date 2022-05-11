@@ -1,0 +1,3 @@
+https://github.com/Lemon-Soup/NetworkChart/blob/main/NetworkChart.ipynb
+
+https://www.youtube.com/watch?v=N7JVM84b8aM&ab_channel=TinyVizTalks
